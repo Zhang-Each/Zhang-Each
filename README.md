@@ -20,7 +20,7 @@
 
 ## Stats
 
-<a href="https://github.com/lwaekfjlk/lwaekfjlk">
+<a href="https://github.com/zhang-each/zhang-each">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhang-each&langs_count=10&layout=compact&exclude_repo=Zhang-Each.github.io,g22_learning_in_zju" alt="Zhang-Each's GitHub Stats" /></a>
 
 <a href="https://github.com/zhang-each">
