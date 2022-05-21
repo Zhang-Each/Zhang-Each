@@ -8,6 +8,7 @@
   - 💻Infrastructure Develop Summer Intern in Alibaba
 - Learning open courses released by Stanford/MIT/CMU
 - Blog: [link here](https://zhang-each.github.io/)
+- Yuque Knowledge Base: [link here](https://www.yuque.com/each-kira/cs-learning)
 
 ## Skill & Interest
 
