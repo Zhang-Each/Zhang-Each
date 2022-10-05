@@ -3,9 +3,9 @@
 ## About ME
 
 - I'm Zhang-Each
-  -  an undergraduate student in Zhejiang University, major in Software Engineering
-  - will be a graduate in Computer Science
+  -  an graduate student in Zhejiang University, major in Computer Science
   - 💻Infrastructure Develop Summer Intern in Alibaba
+  - Study Knowledge Graphs and NLP in ZJU-KG lab.
 - Learning open courses released by Stanford/MIT/CMU
 - Blog: [link here](https://zhang-each.github.io/)
 - Yuque Knowledge Base: [link here](https://www.yuque.com/each-kira/cs-learning)
@@ -16,9 +16,9 @@
 - Languages：C/C++, Java, Python, LaTeX, Markdown, PPT
 - Full-Stack **Web Development**(but naive)
 - New hand in Machine Learning & Deep Learning
-- Interested but weak in **Knowledge Graph, NLP**, Machine Learning System
 
-
+## Publication
+- Knowledge Graph Completion with Pre-trained Multimodal Transformer and Twins Negative Sampling. (Accepted by [KDD-2022 Undergraduate consortium](https://kdd.org/kdd2022/), [Arxiv](https://arxiv.org/abs/2209.07084))
 
 ## Stats
 
