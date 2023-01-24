@@ -8,7 +8,7 @@
   - Study Knowledge Graphs and NLP in ZJU-KG lab.
 - Learning open courses released by Stanford/MIT/CMU
 - Blog: [link here](https://zhang-each.github.io/)
-- Yuque Knowledge Base: [link here](https://www.yuque.com/each-kira/cs-learning)
+- Notebook: [link here](https://zhang-each.github.io/My-CS-Notebook/)
 - Bilibili: [link here](https://space.bilibili.com/108167420)(Continue to share my daily thinks during learning)
 
 ## Skill & Interest
