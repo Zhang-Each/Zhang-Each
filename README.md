@@ -9,7 +9,6 @@
 - Learning open courses released by Stanford/MIT/CMU
 - Blog: [link here](https://zhang-each.github.io/)
 - Notebook: [link here](https://zhang-each.github.io/My-CS-Notebook/)
-- Bilibili: [link here](https://space.bilibili.com/108167420)(Continue to share my daily thinks during learning)
 
 ## Skill & Interest
 
@@ -18,7 +17,8 @@
 - New hand in Machine Learning & Deep Learning
 
 ## Publication
-- Knowledge Graph Completion with Pre-trained Multimodal Transformer and Twins Negative Sampling. (Accepted by [KDD-2022 Undergraduate consortium](https://kdd.org/kdd2022/), [Arxiv](https://arxiv.org/abs/2209.07084))
+- Knowledge Graph Completion with Pre-trained Multimodal Transformer and Twins Negative Sampling. (First Author, Accepted by [KDD-2022 Undergraduate consortium](https://kdd.org/kdd2022/), [paper](https://arxiv.org/abs/2209.07084))
+- Tele-Knowledge Pre-training for Fault Analysis. (Accepted by ICDE-2023 Industry Track, [paper](https://arxiv.org/abs/2210.11298))
 
 ## Stats
 
