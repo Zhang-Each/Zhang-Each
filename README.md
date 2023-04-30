@@ -5,7 +5,7 @@
 - I'm Zhang-Each
   -  an graduate student in Zhejiang University, major in Computer Science
   - 💻Infrastructure Develop Summer Intern in Alibaba
-  - Study Knowledge Graphs and NLP in ZJU-KG lab.
+  - Study Knowledge Graphs(KG) and Natural Language Processing(NLP) in ZJU-KG lab.
 - Learning open courses released by Stanford/MIT/CMU
 - Blog: [link here](https://zhang-each.github.io/)
 - Notebook: [link here](https://zhang-each.github.io/My-CS-Notebook/)
@@ -23,7 +23,7 @@
 ## Stats
 
 <a href="https://github.com/zhang-each/zhang-each">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhang-each&langs_count=10&layout=compact&exclude_repo=Zhang-Each.github.io,g22_learning_in_zju" alt="Zhang-Each's GitHub Stats" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhang-each&langs_count=5&layout=compact&exclude_repo=Zhang-Each.github.io,g22_learning_in_zju" alt="Zhang-Each's GitHub Stats" /></a>
 
 <a href="https://github.com/zhang-each">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhang-each&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8" alt="Haofei Yu's GitHub Stats" /></a>
