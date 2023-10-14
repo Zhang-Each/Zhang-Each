@@ -19,6 +19,10 @@
 ## Publication
 - Knowledge Graph Completion with Pre-trained Multimodal Transformer and Twins Negative Sampling. (First Author, Accepted by [KDD-2022 Undergraduate consortium](https://kdd.org/kdd2022/), [paper](https://arxiv.org/abs/2209.07084))
 - Tele-Knowledge Pre-training for Fault Analysis. (Accepted by ICDE-2023 Industry Track, [paper](https://arxiv.org/abs/2210.11298))
+- Modality-Aware Negative Sampling for Multi-modal Knowledge Graph Embedding. (Accepted by IJCNN 2023, [paper](https://arxiv.org/abs/2304.11618))
+- CausE: Towards Causal Knowledge Graph Embedding. (Accepted by CCKS 2023, [paper](https://arxiv.org/abs/2307.11610))
+- MACO: A Modality Adversarial and Contrastive Framework for Modality-missing Multi-modal Knowledge Graph Completion. (Accepted by NLPCC 2023, [paper](https://arxiv.org/abs/2308.06696))
+- 	Making Large Language Models Perform Better in Knowledge Graph Completion. (Preprint paper, [paper](https://arxiv.org/abs/2310.07579))
 
 ## Stats
 
