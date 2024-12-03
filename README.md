@@ -8,7 +8,7 @@
 - Learning open courses released by Stanford/MIT/CMU
 - Blog: [link here](https://zhang-each.github.io/)
 - Notebook: [link here](https://zhang-each.github.io/My-CS-Notebook/)
-- Personal Page: [link here](https://zhang-each.github.io/CV/)
+- Personal Page: [link here](https://zhang-each.github.io/)
 
 
 ## Publication
